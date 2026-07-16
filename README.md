@@ -1,15 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Peng Ye (keil101er) 👋</h1>
+  <h1>Hi there, I'm Peng Ye (keil101er) </h1>
   <h3>Robotics Developer | Embedded Systems | IoT Engineering @ UJS</h3>
 </div>
 
 <br/>
 
-介绍一下我自己：我是江苏大学物联网工程专业的大二学生，目前在 RoboMaster Aurora 战队担任轮腿机器人的电控开发。
-
-- 🔭 **目前正在做：** 备战 RoboMaster 机器人挑战赛，主攻轮腿机器人的底层运动控制。
-- 🌱 **目前正在学：** 深入学习现代 C++、数据结构与算法，以及探索更多高级控制理论。
-- ⚡ **开发哲学：** 拥抱开源与效率。习惯在 Ubuntu / Windows 双端环境下使用 VS Code 开发，并深度利用 AI Agent（如 Claude Code CLI, Antigravity）来加速工程迭代。
+介绍一下我自己：我是江苏大学物联网工程专业的学生。
 
 ---
 
